@@ -6,23 +6,12 @@
 ### [TG CHANEL](https://t.me/dylan_jdpro)
 
 
-国内机（带代理）：
+
 
 ```
-ql repo https://js.okyago.com/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
+ql repo https://github.com/whiletoken/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
 
 ```
-
-
-国外机：
-
-```
-ql repo https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify|utils"
-
-```
-
-
-线报监控类，[入口](https://github.com/6dylan6/jdm.git)
 
 
 
