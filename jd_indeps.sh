@@ -38,7 +38,7 @@ echo -e "开始安装............\n"
 
 #apk add g++ make pixman-dev pango-dev cairo-dev pkgconf --no-cache
 #apk add g++ make --no-cache
-pnpm config set registry https://registry.npmmirror.com
+pnpm config set registry https://mirrors.cloud.tencent.com/npm/
 pnpm install -g
 pnpm i -g tough-cookie
 pnpm i -g ds@2.0.2
